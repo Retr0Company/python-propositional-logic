@@ -9,4 +9,4 @@ It also prints out the thruth table of the proposition.
 
 ## Screenshots
 
-![Screenshot of the python shell](doc/capture.png)
+![Screenshot of the python shell](doc/capture_1.png)
